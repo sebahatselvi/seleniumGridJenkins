@@ -9,4 +9,6 @@ To execute this specification, run
 
 denemeee
 ------
+tags: gaugeDeneme
+
 * deneme
